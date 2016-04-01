@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="RobotGUI/RobotGUI.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RobotGUI/RobotGUI.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="5" />
+      <File FileName="RobotReceiver.cs" Line="14" Column="15" />
+      <File FileName="RobotGUI/Program.cs" Line="10" Column="38" />
+      <File FileName="RobotGUI/RobotGUI.cs" Line="59" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

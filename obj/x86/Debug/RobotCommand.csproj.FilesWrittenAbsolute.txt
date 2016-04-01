@@ -1,0 +1,10 @@
+/Users/imbernal/LAB Command/Lab/RobotCommand/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/imbernal/LAB Command/Lab/RobotCommand/bin/Debug/RobotCommand.exe.mdb
+/Users/imbernal/LAB Command/Lab/RobotCommand/bin/Debug/RobotCommand.exe
+/Users/imbernal/LAB Command/Lab/RobotCommand/obj/x86/Debug/RobotCommand.exe
+/Users/imbernal/LAB Command/Lab/RobotCommand/obj/x86/Debug/RobotCommand.exe.mdb
+/home/luis/Público/RobotCommand/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/luis/Público/RobotCommand/bin/Debug/RobotCommand.exe.mdb
+/home/luis/Público/RobotCommand/bin/Debug/RobotCommand.exe
+/home/luis/Público/RobotCommand/obj/x86/Debug/RobotCommand.exe
+/home/luis/Público/RobotCommand/obj/x86/Debug/RobotCommand.exe.mdb
