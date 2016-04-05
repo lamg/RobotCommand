@@ -1,0 +1,10 @@
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\obj\x86\Debug\RobotGUI.exe
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\bin\Debug\RobotGUI.exe
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\bin\Debug\RobotGUI.pdb
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\bin\Debug\RobotCommand.exe
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\bin\Debug\RobotCommand.pdb
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\obj\x86\Debug\RobotGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\obj\x86\Debug\RobotGUI.pdb
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\bin\Debug\robot-5.png
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\obj\x86\Debug\RobotGUI.RobotGUI.resources
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\RobotGUI\obj\x86\Debug\RobotGUI.csproj.GenerateResource.Cache

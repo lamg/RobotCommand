@@ -1,0 +1,4 @@
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\obj\x86\Debug\RobotCommand.exe
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\bin\Debug\RobotCommand.exe
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\bin\Debug\RobotCommand.pdb
+C:\Users\Phenrir\Documents\Visual Studio 2015\Projects\RobotCommand-master\obj\x86\Debug\RobotCommand.pdb
